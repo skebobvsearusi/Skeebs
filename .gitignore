@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+save video/
+*.mkv
+*.mp4
+*.wav
+ffmpeg.exe
+*.log
